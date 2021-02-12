@@ -18,7 +18,8 @@ incrementaran la afinidad de dicha proteína por su receptor, con el consiguient
 capacidad infectiva (creo que hay un paper de esto -lo tengo que buscar-).
 Tambien se puede usar para el tema de anticuerpos.
 
-A mi me interesa particularmente el tema protein-peptide para el proyecto de rosendo.
+A nosotros nos interesa particularmente el tema protein-peptide para el proyecto de cancer que
+tenemos con el Dr. R. Luria.
 
 # Unidad didáctica
 
@@ -128,7 +129,8 @@ benchmarking de estos métodos y sus variaciones?
 
 - Herramientas y estratégias de búsqueda de bibliografía científica.
 - Herramientas de gestión biobliográfica.
-- Se hará uso de la librería OpenMM para llevar a cabo una pequeña simulación de dinámica molecular con la que demostrar el uso de la librería implementada. La función de este experimento no será la investigación, sino simplemente el obtener una o varias trayectorias sobre las que demostrar que la librería obtiene el ensemble relevante de modelos farmacofóricos.
+- ...
+- ...
 
 ## El trabajo en un laboratorio computacional de investigación
 
