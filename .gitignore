@@ -1,0 +1,14 @@
+__pycache__/*
+*/__pycache__/*
+*.so
+*.pyc
+INSTALL.log
+*.egg-info/*
+record.txt
+*.ipynb_checkpoints
+/docs/api/_autosummary
+*.mod
+dist/*
+*.swp
+playground/MolSysMT-Diego.ipynb
+
