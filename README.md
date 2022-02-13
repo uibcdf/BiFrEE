@@ -21,3 +21,15 @@ Biology and Drug Design](http://uibcdf.org), and [authors](https://github.com/ui
 ## Acknowledgements
 
 Project based on the [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.5.
+
+## Contributors
+
+A complete list of contributors can be found checking [the insights section of this
+repository](https://github.com/uibcdf/BiFrEE/graphs/contributors).
+
+The main project authors and major contributors are:
+
+- Liliana M. Moreno Vargas
+- Diego Prada Gracia
+- Carlos Ramírez García
+
