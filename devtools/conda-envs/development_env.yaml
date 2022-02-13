@@ -1,0 +1,17 @@
+channels:
+- uibcdf/label/dev
+- uibcdf
+- conda-forge
+- defaults
+dependencies:
+- pyunitwizard
+- pytest
+- pip
+- pytest-cov
+- codecov
+- sphinx
+- sphinx_rtd_theme
+- sphinxcontrib-bibtex
+- myst-nb
+- jupyterlab
+- pyyaml

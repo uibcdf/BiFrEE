@@ -1,0 +1,11 @@
+channels:
+- uibcdf/label/dev
+- uibcdf
+- conda-forge
+- defaults
+dependencies:
+- pyunitwizard
+- sphinx
+- sphinx_rtd_theme
+- sphinxcontrib-bibtex
+- myst-nb

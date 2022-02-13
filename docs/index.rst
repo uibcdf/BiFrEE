@@ -1,39 +1,44 @@
+.. bifree documentation master file
 
-.. openmmgbsa documentation master file
+BiFrEE
+======
 
-==========
-OpenMMGBSA
-==========
-
-.. warning:: |IntroWarningText|
-
-.. |IntroWarningText| replace::
-        Highly Unstable - Work in progress
-
-.. note:: |IntroNoteText|
-
-.. |IntroNoteText| replace::
-        This library is at its early firsts baby steps.
+Binding Free Energy Estimator.
 
 .. toctree::
-   :name: installation
-   :caption: Installation
-   :maxdepth: 1
+   :name: about
+   :caption: About
+   :maxdepth: 2
 
-   contents/Installation.md
+   contents/about/introduction/index.rst
+   contents/about/installation/installation.md
+   contents/about/showcase/index.rst
 
 .. toctree::
    :name: user_guide
-   :caption: User guide
+   :caption: User Guide
    :maxdepth: 2
 
-   contents/Hello.ipynb
+   contents/user/intro/index.rst
+   contents/user/tools/index.rst
 
 .. toctree::
-   :caption: API Documentation
-   :maxdepth: 1
+   :name: developer_guide
+   :caption: Developer Guide
+   :maxdepth: 2
 
-   api/index
+   contents/developer/intro/index.rst
+   contents/developer/exceptions.ipynb
+   contents/developer/documentation/index.rst
+
+.. toctree::
+   :name: api_doc
+   :caption: API Documentation
+   :maxdepth: 2
+
+   api_user.rst
+   api_developer.rst
+
 
 Glossary, indices and tables
 ============================
