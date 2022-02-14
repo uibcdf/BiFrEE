@@ -5,6 +5,11 @@ BiFrEE
 
 Binding Free Energy Estimator.
 
+.. admonition:: Warning!
+   :class: danger
+
+   At this moment BiFrEE is a work in progress project.
+
 .. toctree::
    :name: about
    :caption: About
@@ -28,6 +33,7 @@ Binding Free Energy Estimator.
    :maxdepth: 2
 
    contents/developer/intro/index.rst
+   contents/developer/names_convention.ipynb
    contents/developer/exceptions.ipynb
    contents/developer/documentation/index.rst
 

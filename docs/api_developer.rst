@@ -10,5 +10,6 @@ Exceptions
    :toctree: autosummary
 
         NotImplementedMethodError
+        NotImplementedClassError
         BadCallError
 

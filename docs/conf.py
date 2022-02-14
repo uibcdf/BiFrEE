@@ -25,19 +25,18 @@ import bifree
 # -- Project information -----------------------------------------------------
 
 project = "BiFrEE"
-copyright = ("2022, The Mexico City Childrens' Hospital Federico Gomez, "
-             "its Unit of Research on Computational Biology and Drug Design, and authors. "
+copyright = ("2022, The Mexico City Childrens' Hospital Federico Gomez and authors | "
              "This project is licensed under the terms of the MIT license. "
-             "See further details in the source code repository. \\"
+             "See further details in the source code repository | "
              "Project based on the Computational Molecular Science Python Cookiecutter version 1.5")
 author = ("The Unit of Research on Computational Biology and Drug Design "
           "at the Mexico City Childrens' Hospital Federico Gomez, and the "
           "contributors to the GitHub repository uibcdf/BiFrEE.")
 
 # The short X.Y version
-version = project_name.__version__.split('+')[0]
+version = bifree.__version__.split('+')[0]
 # The full version, including alpha/beta/rc tags
-release = project_name.__version__
+release = bifree.__version__
 
 
 # -- General configuration ---------------------------------------------------

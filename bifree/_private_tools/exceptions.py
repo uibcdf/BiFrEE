@@ -15,7 +15,7 @@ class NotImplementedMethodError(NotImplementedError):
     ------
     NotImplementedMethodError
         A message is printed out with the name of the method raising the exception, the link to
-        the API documentation, and the link to the issues board of Sabueso's GitHub repository.
+        the API documentation, and the link to the issues board of BiFrEE's GitHub repository.
 
     Examples
     --------
@@ -67,7 +67,7 @@ class NotImplementedClassError(NotImplementedError):
     ------
     NotImplementedClassError
         A message is printed out with the name of the class raising the exception, the link to
-        the API documentation, and the link to the issues board of Sabueso's GitHub repository.
+        the API documentation, and the link to the issues board of BiFrEE's GitHub repository.
 
     Examples
     --------
@@ -118,7 +118,7 @@ class BadCallError(ValueError):
     BadCallError
         A message is printed out with the name of the class or the method raising the exception,
         the possible wrong argument, the link to the API documentation, and the link to the
-        issues board of Sabueso's GitHub repository.
+        issues board of BiFrEE's GitHub repository.
 
     Examples
     --------

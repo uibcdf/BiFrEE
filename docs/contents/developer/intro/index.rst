@@ -8,4 +8,3 @@ Introduction
    :maxdepth: 2
 
    Introduction.md
-   databases/index.rst
