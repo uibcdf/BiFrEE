@@ -10,5 +10,9 @@ __version__ = versions['version']
 __git_revision__ = versions['full-revisionid']
 del get_versions, versions
 
+__documentation_web__ = 'https://www.uibcdf.org/BiFrEE'
+__github_web__ = 'https://github.com/uibcdf/BiFrEE'
+__github_issues_web__ = __github_web__ + '/issues'
+
 from .test import greetings
 

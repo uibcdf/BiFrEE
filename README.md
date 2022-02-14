@@ -11,7 +11,7 @@ free energy between two or more molecules, any kind.
 
 ## License
 
-This project is under an MIT License. [A copy of the license text is included in this repository](LICENSE.txt).
+This project is under an MIT License. [A copy of the license text is included in this repository](LICENSE).
 
 ### Copyright
 
