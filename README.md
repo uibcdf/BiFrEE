@@ -16,7 +16,7 @@ This project is under an MIT License. [A copy of the license text is included in
 ### Copyright
 
 Copyright (c) 2022 [The Mexico Children's Hospital Federico Gómez](http://himfg.com.mx/), [its Unit of Research on Computational
-Biology and Drug Design](http://uibcdf.org), and [authors](https://github.com/uibcdf/Python-Projects-Template/graphs/contributors).
+Biology and Drug Design](http://uibcdf.org), and [authors](https://github.com/uibcdf/BiFrEE/graphs/contributors).
 
 ## Acknowledgements
 
