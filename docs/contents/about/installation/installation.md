@@ -38,8 +38,8 @@ gh repo clone uibcdf/BiFrEE
 
 Now, once you have cloned the repository. You need to install the required pakages to use it,
 develope it, test it, or document it. Find all required libraries, depending on each usage case, in
-the `Sabueso/devtools/conda-envs` directory. And if you want to create a conda environment to play
-with Sabueso, feel free to make use of the Python scripts 'create\_conda\_env.py' and
+the `BiFrEE/devtools/conda-envs` directory. And if you want to create a conda environment to play
+with BiFrEE, feel free to make use of the Python scripts 'create\_conda\_env.py' and
 'update\_conda\_env.py' in the same directory:
 
 ```
@@ -47,7 +47,7 @@ cd BiFrEE/devtools/conda-envs
 python create_conda_env.py -n BiFrEE -p 3.7 production_env.yaml
 ```
 
-You can now install the developing version of Sabueso from the source code:
+You can now install the developing version of BiFrEE from the source code:
 
 ```
 conda activate BiFrEE

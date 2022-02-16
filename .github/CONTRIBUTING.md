@@ -1,7 +1,7 @@
 # How to contribute
 
 We welcome contributions from external contributors, and this document
-describes how to merge code changes into this pyunitwizard. 
+describes how to merge code changes into this bifree. 
 
 ## Getting Started
 
@@ -10,6 +10,7 @@ describes how to merge code changes into this pyunitwizard.
 * On your local machine,
   [clone](https://help.github.com/articles/cloning-a-repository/) your fork of
   the repository.
+* Check the Developers' Guide in [the BiFrEE documentation](https://uibcdf.org/BiFrEE).
 
 ## Making Changes
 

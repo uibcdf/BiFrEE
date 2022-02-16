@@ -8,7 +8,7 @@ Binding Free Energy Estimator.
 .. admonition:: Warning!
    :class: danger
 
-   At this moment BiFrEE is a work in progress project.
+   Highly Unstable - Work in progress
 
 .. toctree::
    :name: about
