@@ -4,6 +4,8 @@ Binding Free Energy Estimator
 """
 import sys
 from setuptools import setup, find_packages
+from numpy.distutils.core import setup
+from numpy.distutils.extension import Extension
 import versioneer
 
 short_description = __doc__.split("\n")
@@ -27,8 +29,8 @@ setup(
     cmdclass=versioneer.get_cmdclass(),
     package_dir={'bifree': 'bifree'},
     packages=find_packages(),
-    include_package_data=False,
-    package_data={},
+    include_package_data=True,
+    package_data={'bifree': ['data']},
     scripts=[],
     setup_requires=[] + pytest_runner,
     platforms=['Linux',

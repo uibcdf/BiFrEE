@@ -1,0 +1,17 @@
+channels:
+- uibcdf/label/dev
+- uibcdf
+- conda-forge
+- defaults
+dependencies:
+- python
+- setuptools
+- numpy
+- openmm
+- pdbfixer
+- mdtraj
+- tqdm
+- pytest
+- pip
+- pytest-cov
+- codecov
