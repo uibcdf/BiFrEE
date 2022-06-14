@@ -7,6 +7,8 @@ dependencies:
 - python
 - setuptools
 - numpy
+- molsysmt
+- pint
 - openmm
 - pdbfixer
 - mdtraj

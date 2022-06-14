@@ -7,6 +7,8 @@ dependencies:
 - python
 - setuptools
 - numpy
+- molsysmt
+- pint
 - openmm
 - pdbfixer
 - mdtraj
@@ -19,5 +21,5 @@ dependencies:
 - sphinx_rtd_theme
 - sphinxcontrib-bibtex
 - myst-nb
-- pyymal
+- pyyaml
 - jupyterlab
