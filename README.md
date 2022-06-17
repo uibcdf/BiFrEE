@@ -29,7 +29,7 @@ repository](https://github.com/uibcdf/BiFrEE/graphs/contributors).
 
 The main project authors and major contributors are:
 
+- Carlos Ramírez García
 - Liliana M. Moreno Vargas
 - Diego Prada Gracia
-- Carlos Ramírez García
 
