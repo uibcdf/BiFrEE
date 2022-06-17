@@ -15,6 +15,7 @@ production:
   dependencies: &production_dependencies
     - *setup_dependencies
     - molsysmt
+    - pint
     - openmm
     - pdbfixer
     - mdtraj
@@ -47,7 +48,7 @@ development:
     - *production_dependencies
     - *test_dependencies
     - *docs_dependencies
-    - pyymal
+    - pyyaml
     - jupyterlab
 
 conda-build:
