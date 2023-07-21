@@ -8,8 +8,13 @@ import mdtraj as md
 import numpy as np
 from math import sqrt
 from tqdm import tqdm
+import molsysmt as msm
 
-def get_binding_potential_energy(filename):
+def get_binding_potential_energy(molecular_system, trajectory=None, receptor_selection=None,
+        ligand_selection=None, forcefield=None, box_geometry=None, clearance=None, platform='CUDA', simulation_time=None,
+        observation_elapse_time=None):
+
+    filename = molecular_system
 
     #Solvate the system
     #------------------
@@ -190,4 +195,6 @@ def get_binding_potential_energy(filename):
     binding_pe = potential_energies_c-(potential_energies_r+potential_energies_l)
 
     return binding_pe.mean()
+
+    pass
 

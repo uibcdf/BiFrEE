@@ -8,17 +8,18 @@ build:
 requirements:
   build:
   - python
-  - setuptools
-  - numpy
+  - pip
+  - setuptools >=61.0
+  - versioningit~=2.0
   run:
   - python
-  - setuptools
-  - numpy
+  - pip
+  - setuptools >=61.0
+  - versioningit~=2.0
   - molsysmt
+  - pyunitwizard
   - pint
   - openmm
-  - pdbfixer
-  - mdtraj
   - tqdm
 about:
   home: https://uibcdf.org
